@@ -1,5 +1,5 @@
 dependencies:
-  '@pnpm/resolver-base': 0.0.0
+  '@pnpm/resolver-base': 1.0.0
 devDependencies:
   mos: 2.0.0-alpha.3
   mos-plugin-readme: 1.0.4
@@ -7,14 +7,14 @@ devDependencies:
   tslint: 5.9.1
   typescript: 2.7.1
 packages:
-  /@pnpm/resolver-base/0.0.0:
+  /@pnpm/resolver-base/1.0.0:
     dependencies:
       '@pnpm/types': 1.7.0
     dev: false
     engines:
       node: '>=4'
     resolution:
-      integrity: sha512-nHGuMVc+sDF23KLMv5qOUWL3W/zbC24DIZ7q20WoHYUztkMAH2IMBLabDY8Q9ZrNB2z/lBAfcERUYeac+ozOPw==
+      integrity: sha512-+y47No75LZFnkN7VAnoEtkIzDgOuc8ZT4QjyhuNIBVLx4oqFa/R16DpSyRjmaTZMCSREXunObULKL/hoLipNDA==
   /@pnpm/types/1.7.0:
     dev: false
     resolution:
@@ -2237,7 +2237,7 @@ registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 4
 shrinkwrapVersion: 3
 specifiers:
-  '@pnpm/resolver-base': ^0.0.0
+  '@pnpm/resolver-base': ^1.0.0
   mos: ^2.0.0-alpha.3
   mos-plugin-readme: ^1.0.4
   rimraf: ^2.6.2
