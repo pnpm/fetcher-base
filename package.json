@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/pnpm/fetcher-base#readme",
   "dependencies": {
-    "@pnpm/resolver-base": "^1.0.0"
+    "@pnpm/resolver-base": "^2.0.0"
   },
   "devDependencies": {
     "mos": "^2.0.0-alpha.3",
