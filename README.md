@@ -1,3 +1,5 @@
+> this package was moved to https://github.com/pnpm/pnpm
+
 # @pnpm/fetcher-base
 
 > Types for pnpm-compatible fetchers
